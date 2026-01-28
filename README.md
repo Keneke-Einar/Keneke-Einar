@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### 🔮 Go-Backend 🔮
+### 🔮₊˚⊹ TECH STACK ⊹˚₊🔮
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244276?style=for-the-badge&logo=grpc&logoColor=white)
