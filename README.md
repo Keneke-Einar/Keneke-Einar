@@ -15,7 +15,7 @@
 
 <p align="center">
   📍 Astana, Kazakhstan  •  23 y.o.<br>
-  ✉️ <a href="khabdrazakovkenesary@gmail.com">khabdrazakovkenesary@gmail.com</a>  •  📱 +7 776 711 55 85<br> • <a href="[https://t.me/newhomie">tg:@newhomie</a>  •  <a href="https://linkedin.com/in/kenessary-khabdrazakov">LinkedIn</a>
+  ✉️ khabdrazakovkenesary@gmail.com • <a href="https://t.me/newhomie">tg:@newhomie</a>  •  <a href="https://linkedin.com/in/kenessary-khabdrazakov">LinkedIn</a>
 </p>
 
 ---
