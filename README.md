@@ -9,8 +9,6 @@
 ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 ```
 
-## 『 ★ TECH STACK ★ 』
-
 <div align="center">
 
 ### ⚡ PRIMARY LANGUAGE ⚡
