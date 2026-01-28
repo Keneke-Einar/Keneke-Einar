@@ -11,25 +11,17 @@
 
 <div align="center">
 
-### ⚡ PRIMARY LANGUAGE ⚡
+### 🔮 Go-Backend 🔮
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### 🔮 BACKEND & PROTOCOLS 🔮
 ![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244276?style=for-the-badge&logo=grpc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
-
-### 🗄️ DATABASES & STORAGE 🗄️
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 📡 MESSAGING & QUEUES 📡
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### 🛠️ DEVOPS & TOOLS 🛠️
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -40,9 +32,6 @@
 ### 🛡️ ARCHITECTURE & TESTING 🛡️
 Microservices • Hexagonal Architecture • JWT • RBAC • Rate Limiting  
 Unit/Integration Testing • Testcontainers • GoMock • Testify
-
-### 🌍 LANGUAGES
-English (C1+) • Russian (Native) • Kazakh (Fluent)
 
 </div>
 
