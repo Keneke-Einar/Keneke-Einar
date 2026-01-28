@@ -84,10 +84,10 @@ English (C1+) • Russian (Native) • Kazakh (Fluent)
 <div align="center">
 
 ```
-╔══════════════════════════════════════════╗
-║   ✦ Thanks for visiting my profile! ★    ║
-║   ♡ Don't forget to star some repos ♡    ║
-╚══════════════════════════════════════════╝
+╔═════════════════════════════════════════╗
+║    Thanks for visiting my profile!      ║
+║    Don't forget to star some repos      ║
+╚═════════════════════════════════════════╝
 ```
 
 
