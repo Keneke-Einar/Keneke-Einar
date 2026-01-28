@@ -20,20 +20,6 @@
 
 ---
 
-### 🛠️ I build things that don't break at scale
-
-Four years in Golang (3+ commercial).  
-Mostly focused on turning monoliths into maintainable microservices, making APIs fast & secure, and keeping 7k+ RPS happy.
-
-Most proud moments:
-- Reduced real-time tracking latency **4–6 s → <800 ms** (WebSockets + Kafka)
-- Cut p95 API response time by **48%** at peak load
-- Dropped nightly batch jobs from **4+ hours → <1 hour**
-- Scaled service to **60k+ daily active users** after migration
-- Zero critical findings after external penetration testing
-
----
-
 ### ⚙️ Toolbox
 
 ```text
