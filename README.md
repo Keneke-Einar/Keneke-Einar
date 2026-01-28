@@ -1,36 +1,118 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Go_gopher_app_engine_color.jpg" alt="Gopher" width="180"/>
-  <br><br>
-  <h1>Hey! I'm Kenessary Khabdrazakov</h1>
-  <h3>Golang Backend Engineer · Scaling systems in Astana 🚀</h3>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
-  <img src="https://img.shields.io/badge/Microservices-Enabled-blueviolet?style=for-the-badge" alt="Microservices"/>
-    <img src="https://img.shields.io/badge/60k±_DAU-Scaled-success?style=for-the-badge" alt="Scaled"/>
-  <img src="https://img.shields.io/badge/High--Load-25k±_tx/day-orange?style=for-the-badge" alt="High Load"/>
-  <img src="https://img.shields.io/badge/English_C1+-brightgreen?style=for-the-badge" alt="English"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=200&section=header&text=KENESARY%20KHABDRAZAKOV&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<p align="center">
-  📍 Astana, Kazakhstan  •  23 y.o.<br>
-  ✉️ khabdrazakovkenesary@gmail.com • <a href="https://t.me/newhomie">tg:@newhomie</a>  •  <a href="https://linkedin.com/in/kenessary-khabdrazakov">LinkedIn</a>
-</p>
+```
+██████╗  █████╗ ███████╗██╗  ██╗███╗   ███╗ █████╗ ██╗  ██╗██╗
+██╔══██╗██╔══██╗██╔════╝██║  ██║████╗ ████║██╔══██╗██║ ██╔╝██║
+██████╔╝███████║███████╗███████║██╔████╔██║███████║█████╔╝ ██║
+██╔══██╗██╔══██║╚════██║██╔══██║██║╚██╔╝██║██╔══██║██╔═██╗ ██║
+██████╔╝██║  ██║███████║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██╗██║
+╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+```
+
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9wZ3p6b3h3b3d3d3d3d3d3d3d3d3d3d3d3d3d3d/giphy.gif" width="400" alt="cyber backend vibes"/>
 
 ---
 
-### ⚙️ Toolbox
+## 『 ★ TECH STACK ★ 』
 
-```text
-Languages       →  Go • (Bash scripting on the side)
-Web             →  Gin • Fiber • Echo • REST • gRPC • GraphQL • WebSockets
-Concurrency     →  Goroutines • Channels • Worker Pools • Select races
-Databases       →  PostgreSQL (query tuning master) • Redis (caching king) • MongoDB
-Messaging       →  Kafka • RabbitMQ
-Observability   →  Prometheus • Grafana • Zap + Loki • Structured logging
-DevOps          →  Docker • Kubernetes • GitLab CI/CD • Linux
-Architecture    →  Hexagonal / Clean • DDD-lite • Event-driven
-Security        →  JWT • RBAC • Rate limiting • Passed pentests
-Testing         →  testify • GoMock • Testcontainers
+<div align="center">
+
+### ⚡ PRIMARY LANGUAGE ⚡
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🔮 BACKEND & PROTOCOLS 🔮
+![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244276?style=for-the-badge&logo=grpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
+
+### 🗄️ DATABASES & STORAGE 🗄️
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📡 MESSAGING & QUEUES 📡
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 🛠️ DEVOPS & TOOLS 🛠️
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🛡️ ARCHITECTURE & TESTING 🛡️
+Microservices • Hexagonal Architecture • JWT • RBAC • Rate Limiting  
+Unit/Integration Testing • Testcontainers • GoMock • Testify
+
+### 🌍 LANGUAGES
+English (C1+) • Russian (Native) • Kazakh (Fluent)
+
+</div>
+
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400" alt="code flow"/>
+
+---
+
+## ╰┈➤ ✨ GITHUB STATS ✨
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keneke-Einar&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keneke-Einar&layout=compact&langs_count=6&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF"/>
+
+</div>
+
+<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="terminal hacker"/>
+
+---
+
+## ⟨⟨ HIGHLIGHTS FROM EXPERIENCE ⟩⟩
+
+- Led migration from monolith → microservices (4+ Golang services) → **45% latency reduction**, scaled to **60k+ DAU**
+- Built real-time tracking with **WebSockets + Kafka** → reduced latency from 4–6s to **<800ms**
+- Designed secure auth layer (**JWT + RBAC + rate limiting**) → passed external pentest with **zero critical issues**
+- Optimized PostgreSQL + caching → **48% p95 response time improvement** at **7k+ RPS**
+- High-load fintech APIs → **25k+ transactions/day**, **99.9% uptime**
+- Reduced nightly batch jobs from **4+ hours → <1 hour** with concurrent worker pools
+
+(Full CV available → [PDF](https://your-link-to-cv-here-if-hosted) or just email me)
+
+---
+
+## 🌐 ₊˚⊹ CONNECT WITH ME ⊹˚₊ 🌐
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-khabdrazakovkenesary@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khabdrazakovkenesary@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@newhomie-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/newhomie)
+[![GitHub](https://img.shields.io/badge/GitHub-Keneke--Einar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keneke-Einar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenesary%20Khabdrazakov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username-here)
+
+</div>
+
+---
+
+<div align="center">
+
 ```
+╔══════════════════════════════════════════╗
+║   ✦ Thanks for visiting my profile! ★    ║
+║   ♡ Don't forget to star some repos ♡    ║
+╚══════════════════════════════════════════╝
+```
+
+
+---
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=100&section=footer" width="100%"/>
+
+</div>>
