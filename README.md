@@ -11,12 +11,6 @@
 ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 ```
 
-
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9wZ3p6b3h3b3d3d3d3d3d3d3d3d3d3d3d3d3d3d/giphy.gif" width="400" alt="cyber backend vibes"/>
-
----
-
 ## 『 ★ TECH STACK ★ 』
 
 <div align="center">
