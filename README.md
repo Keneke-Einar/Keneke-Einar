@@ -48,8 +48,6 @@ English (C1+) • Russian (Native) • Kazakh (Fluent)
 
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400" alt="code flow"/>
 
----
-
 ## ✨ GITHUB STATS ✨
 
 <div align="center">
@@ -62,9 +60,8 @@ English (C1+) • Russian (Native) • Kazakh (Fluent)
 
 <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="terminal hacker"/>
 
----
 
-## 🌐 ₊˚⊹ CONNECT WITH ME ⊹˚₊ 🌐
+## 🌐₊˚⊹ CONNECT WITH ME ⊹˚₊🌐
 
 <div align="center">
 
@@ -73,8 +70,6 @@ English (C1+) • Russian (Native) • Kazakh (Fluent)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenesary%20Khabdrazakov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username-here)
 
 </div>
-
----
 
 <div align="center">
 
