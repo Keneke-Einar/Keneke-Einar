@@ -35,6 +35,8 @@ Unit/Integration Testing • Testcontainers • GoMock • Testify
 
 </div>
 
+![Fire](https://github.com/Keneke-Einar/Keneke-Einar/blob/main/minecraft-fire.gif)
+
 ## 🌐₊˚⊹ CONNECT WITH ME ⊹˚₊🌐
 
 <div align="center">
@@ -44,5 +46,3 @@ Unit/Integration Testing • Testcontainers • GoMock • Testify
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenesary%20Khabdrazakov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username-here)
 
 </div>
-
-![Fire](https://github.com/Keneke-Einar/Keneke-Einar/blob/main/minecraft-fire.gif)
