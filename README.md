@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=200&section=header&text=KENESARY%20KHABDRAZAKOV&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=200&section=header&text=HELLO%THERE&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 ```
 ██████╗  █████╗ ███████╗██╗  ██╗███╗   ███╗ █████╗ ██╗  ██╗██╗
@@ -54,7 +54,7 @@ English (C1+) • Russian (Native) • Kazakh (Fluent)
 
 ---
 
-## ╰┈➤ ✨ GITHUB STATS ✨
+## ✨ GITHUB STATS ✨
 
 <div align="center">
   
@@ -68,26 +68,12 @@ English (C1+) • Russian (Native) • Kazakh (Fluent)
 
 ---
 
-## ⟨⟨ HIGHLIGHTS FROM EXPERIENCE ⟩⟩
-
-- Led migration from monolith → microservices (4+ Golang services) → **45% latency reduction**, scaled to **60k+ DAU**
-- Built real-time tracking with **WebSockets + Kafka** → reduced latency from 4–6s to **<800ms**
-- Designed secure auth layer (**JWT + RBAC + rate limiting**) → passed external pentest with **zero critical issues**
-- Optimized PostgreSQL + caching → **48% p95 response time improvement** at **7k+ RPS**
-- High-load fintech APIs → **25k+ transactions/day**, **99.9% uptime**
-- Reduced nightly batch jobs from **4+ hours → <1 hour** with concurrent worker pools
-
-(Full CV available → [PDF](https://your-link-to-cv-here-if-hosted) or just email me)
-
----
-
 ## 🌐 ₊˚⊹ CONNECT WITH ME ⊹˚₊ 🌐
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-khabdrazakovkenesary@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khabdrazakovkenesary@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@newhomie-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/newhomie)
-[![GitHub](https://img.shields.io/badge/GitHub-Keneke--Einar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keneke-Einar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenesary%20Khabdrazakov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username-here)
 
 </div>
