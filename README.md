@@ -35,8 +35,6 @@ Unit/Integration Testing • Testcontainers • GoMock • Testify
 
 </div>
 
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="terminal hacker"/>
-
 ## 🌐₊˚⊹ CONNECT WITH ME ⊹˚₊🌐
 
 <div align="center">
