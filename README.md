@@ -8,8 +8,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
   <img src="https://img.shields.io/badge/Microservices-Enabled-blueviolet?style=for-the-badge" alt="Microservices"/>
+    <img src="https://img.shields.io/badge/60k±_DAU-Scaled-success?style=for-the-badge" alt="Scaled"/>
   <img src="https://img.shields.io/badge/High--Load-25k±_tx/day-orange?style=for-the-badge" alt="High Load"/>
-  <img src="https://img.shields.io/badge/60k±_DAU-Scaled-success?style=for-the-badge" alt="Scaled"/>
   <img src="https://img.shields.io/badge/English_C1+-brightgreen?style=for-the-badge" alt="English"/>
 </p>
 
