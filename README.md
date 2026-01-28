@@ -46,20 +46,7 @@ English (C1+) • Russian (Native) • Kazakh (Fluent)
 
 </div>
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400" alt="code flow"/>
-
-## ✨ GITHUB STATS ✨
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keneke-Einar&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keneke-Einar&layout=compact&langs_count=6&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF"/>
-
-</div>
-
 <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="terminal hacker"/>
-
 
 ## 🌐₊˚⊹ CONNECT WITH ME ⊹˚₊🌐
 
@@ -70,14 +57,3 @@ English (C1+) • Russian (Native) • Kazakh (Fluent)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenesary%20Khabdrazakov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username-here)
 
 </div>
-
-<div align="center">
-
-```
-╔═════════════════════════════════════════╗
-║    Thanks for visiting my profile!      ║
-║    Don't forget to star some repos      ║
-╚═════════════════════════════════════════╝
-```
-
-</div>>
