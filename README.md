@@ -35,8 +35,6 @@ Unit/Integration Testing • Testcontainers • GoMock • Testify
 
 </div>
 
-![Fire](https://github.com/Keneke-Einar/Keneke-Einar/blob/main/minecraft-fire.gif)
-
 ## 🌐₊˚⊹ CONNECT WITH ME ⊹˚₊🌐
 
 <div align="center">
